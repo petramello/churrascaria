@@ -1,5 +1,6 @@
 # churrascaria
-Projeto proposto por Rodrigo Gonçalves Santana durante o curso Front-End profissional completo HTML5, CSS3, SASS, JS E MAIS, na plataforma Udemy. 
+Projeto desenvolvido em Nov/2019 durante o curso Front-End profissional completo HTML5, CSS3, SASS, JS E MAIS, na plataforma Udemy, conduzido por Rodrigo Gonçalves Santana. 
+
 
 
 **Menu e Banner**
