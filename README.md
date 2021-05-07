@@ -13,7 +13,7 @@ O site desenvolvido foi de uma churrascaria, com menu e pedido de delivery. Foi 
 desde a concepção do projeto até o desenvolvimento da Interface, uso de bibliotecas, repositórios e frameworks para aumentar a produtividade, além de 
 recursos e ferramentas para tornar o visual atrativo, incluindo animações e interatividade. 
 
-Também houve abordagens de Front-End responsivo, ou seja, que se ajusta a qualquer tamanho de tela (celular, tablet, computador, televisão, etc). 
+Também houve abordagens de Front-End responsivo, ou seja, que se ajusta a qualquer tamanho de tela. 
 
 
 **📋  Resolução**
