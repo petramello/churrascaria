@@ -43,6 +43,12 @@ Biblioteca jQuery
 
 Para você visualizar a página, abra o arquivo index.html em seu navegador.
 
+🔗 Deploy
+
+Deploy/Hosting by Replit.
+
+You can find this site on [SITE](https://churrascaria.petramello.repl.co/)
+
 
 
 
